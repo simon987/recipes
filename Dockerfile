@@ -1,4 +1,4 @@
-FROM jojomi/hugo as build
+FROM jojomi/hugo:0.85.0 as build
 
 ADD . /site/
 
