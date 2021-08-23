@@ -1,0 +1,28 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Recipes"
+theme: "PaperMod"
+
+menu:
+    main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 10
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 20
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+params:          
+    homeInfoParams:
+        Content: Mobile-friendly aggregation of recipes I regularly make an enjoy.
+    socialIcons:
+        - name: github
+          url: "https://github.com/simon987/recipes.simon987.net"
