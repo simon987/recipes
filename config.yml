@@ -22,7 +22,7 @@ outputs:
 
 params:          
     homeInfoParams:
-        Content: Mobile-friendly aggregation of recipes I regularly make an enjoy.
+        Content: Mobile-friendly aggregation of recipes I regularly make and enjoy.
     socialIcons:
         - name: github
           url: "https://github.com/simon987/recipes.simon987.net"
