@@ -23,10 +23,15 @@ These vegan Peruvian Burritos are filled with roasted sweet potato, fresh corn, 
 yam or sweet potato, diced|1 small-medium 
 olive oil|
 salt and pepper|to taste
-|
+
+|Ingredient|Quantity|
+--- | ---
 dry quinoa|3/4 cup 
 water|1 1/2 cups 
-|
+
+
+|Ingredient|Quantity|
+--- | ---
 olive oil|1 Tbsp. 
 onion, diced|1/2 
 garlic, rough chopped|4 cloves 
@@ -37,7 +42,9 @@ salt|1/2 tsp.
 cumin|1 tsp. 
 coriander|1 tsp. 
 dried oregano|1/2 tsp. 
-|
+
+|Ingredient|Quantity|
+--- | ---
 refried black beans|1 can 
 oil|1 Tbsp. 
 salt|1/4 tsp. 
@@ -47,13 +54,15 @@ extra-large tortillas (14-16")|4
 
 ### Vegan Aji Verde Sauce:
 
-1/3 cup raw cashews
-1/3 cup water
-2 garlic cloves
-1/2 –1 jalapeno ( or 1/2 a serrano chili)
-1/2 teaspoon salt
-1 1/2 cups cilantro, small stems ok
-1–2 tablespoon lime juice
+|Ingredient|Quantity|
+--- | ---
+raw cashews|1/3 cup
+water|1/3 cup
+garlic| 2 cloves
+jalapeno|1/2–1 
+salt|1/2 tsp. 
+cilantro, small stems ok|1 1/2 cups 
+lime juice|1–2 Tbsp. 
 
 ## Directions
 
