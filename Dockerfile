@@ -4,7 +4,7 @@ ADD . /site/
 
 RUN cd /site/ && hugo --minify -b https://recipes.simon987.net
 
-FROM nginx:alpine
+FROM nginx:1.19-alpine
 
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY --from=build /site/public/ /www/
