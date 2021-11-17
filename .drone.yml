@@ -5,6 +5,10 @@ platform:
   os: linux
 
 steps:
+  - name: submodules
+    image: alpine/git
+    commands:
+    - git submodule update --init --recursive
   - name: build image
     image: plugins/docker
     settings:
