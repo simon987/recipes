@@ -1,0 +1,18 @@
+kind: pipeline
+type: docker
+
+platform:
+  os: linux
+
+steps:
+  - name: build image
+    image: plugins/docker
+    settings:
+      username:
+        from_secret: DOCKER_USERNAME
+      password:
+        from_secret: DOCKER_PASSWORD
+      repo: simon987/recipes.simon987.net
+      context: ./
+      dockerfile: ./Dockerfile
+      tags: latest
