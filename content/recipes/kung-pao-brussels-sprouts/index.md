@@ -1,7 +1,7 @@
 ---
 title: "Kung Pao Brussels Sprouts"
 date: 2021-08-22T20:05:38-04:00
-tags: ["bussel.sprouts", "dinner", "quick"]
+tags: ["brussels.sprouts", "dinner", "quick"]
 draft: false
 cover:
     image: "images/image.jpg"

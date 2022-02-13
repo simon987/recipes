@@ -2,7 +2,7 @@
 title: "Miso-Sesame Brussel Sprouts"
 date: 2021-11-17T09:37:44-05:00
 draft: false
-tags: ["dinner", "brussel.sprouts"]
+tags: ["dinner", "brussels.sprouts"]
 cover:
     image: "images/image.jpg"
 ---
