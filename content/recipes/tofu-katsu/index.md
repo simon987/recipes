@@ -29,7 +29,7 @@ Paprika | 1 tsp.
 Salt | 1 tsp.
 Panko breadcrumbs | ~100g
 Sweet chili sauce | 8 Tbsp.
-Strained tomaties | 4 Tbsp.
+Strained tomatoes | 4 Tbsp.
 Soy sauce | 2-4 Tbsp.
 Vegan Worcestershire sauce | 1-2 Tbsp. (optional)
 Rice | 1 - 1.5 cup
