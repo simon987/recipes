@@ -26,7 +26,7 @@ yellow onion | 1 large
 finely chopped garlic | 6 cloves
 japanenos, diced | 2
 tomato paste | 2 Tbsp.
-chili poweder | 4 Tbsp.
+chili powder | 4 Tbsp.
 ground cumin | 1 Tbsp.
 smoked paprika | 1 1/2 tsp.
 Mexican oregano (sub. 2 tsp. regular oregano) | 1 tsp.
