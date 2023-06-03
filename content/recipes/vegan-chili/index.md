@@ -26,10 +26,6 @@ yellow onion | 1 large
 finely chopped garlic | 6 cloves
 japanenos, diced | 2
 tomato paste | 2 Tbsp.
-chili powder | 4 Tbsp.
-ground cumin | 1 Tbsp.
-smoked paprika | 1 1/2 tsp.
-Mexican oregano (sub. 2 tsp. regular oregano) | 1 tsp.
 dry red wine, such as Malbec, Syrah or Pinot Noir | 3/4 cup
 vegetable broth | 2 cups
 pinto beans | 2 15oz cans
@@ -44,6 +40,16 @@ black pepper | to taste
 maple syrup | 1 Tbsp.
 line juice | 1 1/2 Tbsp.
 red wine vinegar (sub. apple cider vinegar) | 1 Tbsp.
+
+**Spices**
+
+|Ingredient|Quantity|
+--- | ---
+chili powder | 4 Tbsp.
+ground cumin | 1 Tbsp.
+smoked paprika | 1 1/2 tsp.
+Mexican oregano (sub. 2 tsp. regular oregano) | 1 tsp.
+
 
 
 ## Toppings of choice
