@@ -2,7 +2,7 @@
 title: "Tex Mex Rice Casserole"
 date: 2023-06-03T14:14:55-04:00
 draft: false
-tags: ["dinner", "rice"]
+tags: ["dinner", "rice.beans"]
 cover:
     image: "images/image.jpg"
 ---
