@@ -10,7 +10,7 @@ cover:
 
 Crispy tofu bits with jasmine rice and veggies.
 
-![](images/image.jpg)
+![](images/image.webp)
 
 |Prep time|Total time|
 --- | ---
