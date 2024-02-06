@@ -2,7 +2,7 @@
 title: "Crispy Tofu Bits"
 date: 2024-02-03T12:46:21-05:00
 draft: false
-tags: ["dinner"]
+tags: ["dinner", "tofu", "rice"]
 cover:
     image: "images/image.webp"
 ---
